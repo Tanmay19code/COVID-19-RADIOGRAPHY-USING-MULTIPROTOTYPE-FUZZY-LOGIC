@@ -1,0 +1,8 @@
+oldFiles
+Include
+Lib
+Scripts
+pyenv.cfg
+.ipynb_checkpoints
+__pycache__
+*.cfg

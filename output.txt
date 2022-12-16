@@ -1,0 +1,48 @@
+
+
+Total images:				 15153
+
+	Normal:		 10192
+	Covid:		 3616
+	Pneumonia:		 1345
+
+Total training images:		 12121
+
+	Normal:		 8153
+	Covid:		 2892
+	Pneumonia:	 1076
+
+Total test images:			 3032
+
+	Normal:		 2039
+	Covid:		 724
+	Pneumonia:	 269
+
+
+Normal Class:
+
+	No. of prototypes:			 5726
+	Correctly classified:		 1924 / 2039
+	Incorrectly classified:		 115 / 2039
+	Accuracy:					 94.35998038254047
+
+
+Covid Class:
+
+	No. of prototypes:			 2647
+	Correctly classified:		 499 / 724
+	Incorrectly classified:		 225 / 724
+	Accuracy:					 68.92265193370166
+
+
+Pneumonia Class:
+
+	No. of prototypes:			 908
+	Correctly classified:		 185 / 269
+	Incorrectly classified:		 84 / 269
+	Accuracy:					 68.77323420074349
+
+
+Total Correctly Classified Images:		 2608 / 3032
+
+Accuracy of Model:						 86.01583113456465

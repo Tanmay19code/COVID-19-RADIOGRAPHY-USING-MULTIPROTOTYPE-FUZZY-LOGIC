@@ -205,9 +205,9 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
 - let x be the test vector
 - let y be the prototype vector
 
-$$ \text{Euclidean Distance = } d*{x} = \sqrt{\sum*{i=1}^{n} (x_i - y_i)^2} $$
+$$ \text{Euclidean Distance = } d_{x} = \sqrt{\sum*{i=1}^{n} (x_i - y_i)^2} $$
 
-$$ \mu\_{x} = \begin{cases} 0 & \text{if } \gamma*d>1 \\ 1 & \text{if } \gamma*d=0 \\ 1 - \gamma*d & \text{if } 0<\gamma*d<1 \end{cases} $$
+$$ \mu_{x} = \begin{cases} 0 & \text{if } \gamma*d>1 \\ 1 & \text{if } \gamma*d=0 \\ 1 - \gamma*d & \text{if } 0<\gamma*d<1 \end{cases} $$
 
 $$
 \text{where,

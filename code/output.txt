@@ -51,3 +51,5 @@ Pneumonia Class:
 Total Correctly Classified Images:		 2420 / 3032
 
 Accuracy of Model:						 79.81530343007915
+
+Average test time per image:			 1.246 seconds

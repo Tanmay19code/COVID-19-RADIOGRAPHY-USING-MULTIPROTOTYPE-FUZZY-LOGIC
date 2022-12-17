@@ -214,7 +214,7 @@ $$ \text{Accuracy} = \frac{\text{Number of correctly classified test vectors}}{\
 
 ###### The confusion matrix for the model is as follows:
 <!-- insert image -->
-![Confusion Matrix](./assets/confusion_matrix.png)
+![Confusion Matrix](./assets/confusion_matrix_with_class_labels.png)
 
 &nbsp;
 

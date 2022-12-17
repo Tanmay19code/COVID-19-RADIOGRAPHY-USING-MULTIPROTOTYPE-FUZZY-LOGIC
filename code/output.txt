@@ -1,0 +1,53 @@
+
+Total images:				 15153
+
+	Normal:		 10192
+	Covid:		 3616
+	Pneumonia:   1345
+
+Total training images:		 12121
+
+	Normal:		 8153
+	Covid:		 2892
+	Pneumonia:	 1076
+
+Total test images:			 3032
+
+	Normal:		 2039
+	Covid:		 724
+	Pneumonia:	 269
+
+
+Normal Class:
+
+    Threshold (r)           	 0.025
+	No. of prototypes:			 1579
+	Correctly classified:		 1700 / 2039
+	Incorrectly classified:		 339 / 2039
+	Accuracy:					 83.37420304070623
+
+
+Covid Class:
+
+    Threshold (r)           	 0.019
+	No. of prototypes:			 1597
+	Correctly classified:		 519 / 724
+	Incorrectly classified:		 205 / 724
+	Accuracy:					 71.68508287292818
+
+
+Pneumonia Class:
+
+    Threshold (r)           	 0.015
+	No. of prototypes:			 755
+	Correctly classified:		 201 / 269
+	Incorrectly classified:		 68 / 269
+	Accuracy:					 74.72118959107806
+
+
+γ (sensitivity parameter for fuzzy membership )  = 0.1
+
+
+Total Correctly Classified Images:		 2420 / 3032
+
+Accuracy of Model:						 79.81530343007915

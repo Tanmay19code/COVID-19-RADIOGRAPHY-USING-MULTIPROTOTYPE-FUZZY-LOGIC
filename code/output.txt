@@ -54,3 +54,14 @@ Total Correctly Classified Images:		 2420 / 3032
 Accuracy of Model:						 79.81530343007915
 
 Average test time per image:			 1.246 seconds
+
+The classification report for the model is as follows:
+
+| Class        | Precision | Recall | F1-Score | Support |
+| ------------ | --------- | ------ | -------- | ------- |
+| covid        | 0.65      | 0.72   | 0.68     | 724     |
+| normal       | 0.93      | 0.83   | 0.88     | 2039    |
+| pneumonia    | 0.50      | 0.75   | 0.60     | 269     |
+| Accuracy     |           |        | 0.80     | 3032    |
+| Macro Avg    | 0.69      | 0.77   | 0.72     | 3032    |
+| Weighted Avg | 0.82      | 0.80   | 0.81     | 3032    |
